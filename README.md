@@ -1,3 +1,3 @@
 # mypersonal
 personal repo for information
-its a Laxman repo using  training
+it's a Laxman repo using  training
