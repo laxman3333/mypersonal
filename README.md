@@ -1,3 +1,3 @@
 # mypersonal
-personal repo for information
-its a Laxman repo using  training
+  this repo for  testing purposes 
+thi is reddy repo for training
