@@ -1,4 +1,3 @@
 # mypersonal
-  this repo for  testing purposes 
-thi is reddy repo for training
-hi laxman
+  this repo for  testing purposes.
+  this is laxman repo used for training
